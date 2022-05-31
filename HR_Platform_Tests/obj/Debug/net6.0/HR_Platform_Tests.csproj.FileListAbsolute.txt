@@ -1,0 +1,6 @@
+C:\Users\David\Documents\MyDocuments\MyProjects\HR_PlatformInternship\HR_Platform_Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\David\Documents\MyDocuments\MyProjects\HR_PlatformInternship\HR_Platform_Tests\obj\Debug\net6.0\HR_Platform_Tests.csproj.AssemblyReference.cache
+C:\Users\David\Documents\MyDocuments\MyProjects\HR_PlatformInternship\HR_Platform_Tests\obj\Debug\net6.0\HR_Platform_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\MyDocuments\MyProjects\HR_PlatformInternship\HR_Platform_Tests\obj\Debug\net6.0\HR_Platform_Tests.AssemblyInfoInputs.cache
+C:\Users\David\Documents\MyDocuments\MyProjects\HR_PlatformInternship\HR_Platform_Tests\obj\Debug\net6.0\HR_Platform_Tests.AssemblyInfo.cs
+C:\Users\David\Documents\MyDocuments\MyProjects\HR_PlatformInternship\HR_Platform_Tests\obj\Debug\net6.0\HR_Platform_Tests.csproj.CoreCompileInputs.cache
