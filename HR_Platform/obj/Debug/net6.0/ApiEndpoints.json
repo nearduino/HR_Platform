@@ -1,0 +1,164 @@
+[
+  {
+    "ContainingType": "HR_Platform.Controllers.JobCandidatesController",
+    "Method": "GetJobCandidates",
+    "RelativePath": "api/JobCandidates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HR_Platform.Data.Entities.JobCandidate, HR_Platform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HR_Platform.Controllers.JobCandidatesController",
+    "Method": "CreateNewJobCandidate",
+    "RelativePath": "api/JobCandidates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobCandidateDto",
+        "Type": "HR_Platform.Dto.JobCandidateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_Platform.Controllers.JobCandidatesController",
+    "Method": "UpdateJobCandidateSkill",
+    "RelativePath": "api/JobCandidates",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobCandidateSkillDto",
+        "Type": "HR_Platform.Dto.JobCandidateSkillDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_Platform.Controllers.JobCandidatesController",
+    "Method": "DeleteJobCandidate",
+    "RelativePath": "api/JobCandidates/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidateId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_Platform.Controllers.JobCandidatesController",
+    "Method": "DeleteJobCandidateSkill",
+    "RelativePath": "api/JobCandidates/delete-job-candidate-skill",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobCandidateSkillDto",
+        "Type": "HR_Platform.Dto.JobCandidateSkillDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_Platform.Controllers.JobCandidatesController",
+    "Method": "GetJobCandidate",
+    "RelativePath": "api/JobCandidates/get-by-search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "JobCandidateName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SkillName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_Platform.Controllers.SkillsController",
+    "Method": "GetAllSkills",
+    "RelativePath": "api/Skills",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HR_Platform.Data.Entities.Skill, HR_Platform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HR_Platform.Controllers.SkillsController",
+    "Method": "CreateNewSkill",
+    "RelativePath": "api/Skills",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "skillDto",
+        "Type": "HR_Platform.Dto.SkillDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_Platform.Controllers.SkillsController",
+    "Method": "DeleteSkill",
+    "RelativePath": "api/Skills/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

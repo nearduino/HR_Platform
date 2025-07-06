@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Documents\\HR_Platform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|c:\\users\\david\\documents\\hr_platform\\hr_platform_internship\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|solutionrelative:hr_platform_internship\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|c:\\users\\david\\documents\\hr_platform\\hr_platform_internship\\data\\entities\\jobcandidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|solutionrelative:hr_platform_internship\\data\\entities\\jobcandidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|c:\\users\\david\\documents\\hr_platform\\hr_platform_internship\\repository\\implementations\\jobcandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|solutionrelative:hr_platform_internship\\repository\\implementations\\jobcandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|c:\\users\\david\\documents\\hr_platform\\hr_platform_internship\\services\\implementation\\jobcandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|solutionrelative:hr_platform_internship\\services\\implementation\\jobcandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|c:\\users\\david\\documents\\hr_platform\\hr_platform_internship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4DDD4-3728-4642-BA02-5CAD6AFFD0C9}|HR_Platform_Internship\\HR_Platform.csproj|solutionrelative:hr_platform_internship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "HR_Platform_Internship\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Data\\DataContext.cs",
+              "RelativeToolTip": "HR_Platform_Internship\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:42:39.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobCandidateSkill.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Data\\Entities\\JobCandidateSkill.cs",
+              "RelativeDocumentMoniker": "HR_Platform_Internship\\Data\\Entities\\JobCandidateSkill.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Data\\Entities\\JobCandidateSkill.cs",
+              "RelativeToolTip": "HR_Platform_Internship\\Data\\Entities\\JobCandidateSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:42:28.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobCandidateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Repository\\Implementations\\JobCandidateRepository.cs",
+              "RelativeDocumentMoniker": "HR_Platform_Internship\\Repository\\Implementations\\JobCandidateRepository.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Repository\\Implementations\\JobCandidateRepository.cs",
+              "RelativeToolTip": "HR_Platform_Internship\\Repository\\Implementations\\JobCandidateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:21:59.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobCandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Services\\Implementation\\JobCandidateService.cs",
+              "RelativeDocumentMoniker": "HR_Platform_Internship\\Services\\Implementation\\JobCandidateService.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Services\\Implementation\\JobCandidateService.cs",
+              "RelativeToolTip": "HR_Platform_Internship\\Services\\Implementation\\JobCandidateService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:21:57.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Program.cs",
+              "RelativeDocumentMoniker": "HR_Platform_Internship\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\HR_Platform\\HR_Platform_Internship\\Program.cs",
+              "RelativeToolTip": "HR_Platform_Internship\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:27:26.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

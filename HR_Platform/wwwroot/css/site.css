@@ -1,0 +1,22 @@
+﻿body {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.panel {
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 16px;
+}
