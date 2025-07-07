@@ -132,7 +132,7 @@
         }
       }
     },
-    "/api/JobCandidates/{id}": {
+    "/api/JobCandidates/{candidateId}": {
       "delete": {
         "tags": [
           "JobCandidates"
@@ -140,18 +140,11 @@
         "parameters": [
           {
             "name": "candidateId",
-            "in": "query",
-            "schema": {
-              "type": "string",
-              "format": "uuid"
-            }
-          },
-          {
-            "name": "id",
             "in": "path",
             "required": true,
             "schema": {
-              "type": "string"
+              "type": "string",
+              "format": "uuid"
             }
           }
         ],

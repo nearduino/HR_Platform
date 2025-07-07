@@ -54,7 +54,7 @@
   {
     "ContainingType": "HR_Platform.Controllers.JobCandidatesController",
     "Method": "DeleteJobCandidate",
-    "RelativePath": "api/JobCandidates/{id}",
+    "RelativePath": "api/JobCandidates/{candidateId}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -62,11 +62,6 @@
       {
         "Name": "candidateId",
         "Type": "System.Guid",
-        "IsRequired": false
-      },
-      {
-        "Name": "id",
-        "Type": "",
         "IsRequired": true
       }
     ],

@@ -55,7 +55,7 @@ namespace HR_Platform.Controllers
             return Ok();
         }
 
-        [HttpDelete("{id:guid}")]
+        [HttpDelete("{candidateId:guid}")]
         public async Task<IActionResult> DeleteJobCandidate(Guid candidateId)
         {
             await _jobCandidateService.DeleteJobCandidate(candidateId);
